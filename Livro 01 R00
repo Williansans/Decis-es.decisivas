@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Livro: Decisões Decisivas</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+</head>
+<body class="bg-gray-100">
+    <header class="bg-blue-600 text-white text-center p-6">
+        <h1 class="text-3xl font-bold">Decisões Decisivas</h1>
+        <p class="text-lg">O guia essencial para tomar decisões que transformam sua vida e carreira</p>
+    </header>
+    
+    <section class="max-w-4xl mx-auto p-8 bg-white shadow-lg rounded-lg mt-6">
+        <h2 class="text-2xl font-bold mb-4">Sobre o Livro</h2>
+        <p class="text-gray-700 mb-4">Tomar decisões certeiras é a chave para o sucesso. Este livro revela estratégias práticas e insights profundos para ajudá-lo a fazer escolhas inteligentes e impactantes em sua vida pessoal e profissional.</p>
+        <ul class="list-disc list-inside text-gray-700">
+            <li>🧠 Psicologia das decisões</li>
+            <li>🎯 Estratégias para escolhas inteligentes</li>
+            <li>📈 Como minimizar riscos e maximizar oportunidades</li>
+            <li>💡 Exemplos reais e estudos de caso</li>
+        </ul>
+    </section>
+    
+    <section class="max-w-4xl mx-auto p-8 mt-6 text-center">
+        <h2 class="text-2xl font-bold mb-4">Receba as Atualizações</h2>
+        <p class="text-gray-700 mb-6">Cadastre-se para ser o primeiro a saber sobre o lançamento e ofertas exclusivas!</p>
+        <form class="bg-white p-6 shadow-md rounded-lg">
+            <input type="text" placeholder="Nome" class="w-full p-3 border rounded mb-4">
+            <input type="email" placeholder="E-mail" class="w-full p-3 border rounded mb-4">
+            <button class="w-full bg-blue-600 text-white p-3 rounded font-bold">Quero Saber Mais</button>
+        </form>
+    </section>
+    
+    <footer class="text-center p-6 text-gray-600 mt-6">
+        <p>&copy; 2025 - Todos os direitos reservados</p>
+    </footer>
+</body>
+</html>
